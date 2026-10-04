@@ -2,14 +2,14 @@
 
 > 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/tailscale-mesh
 
-私網欄目用的是 Tailscale（基於 WireGuard 的組網工具），藍盾自己執行控制伺服器，你用**本站賬號**登入，與 Tailscale 官方賬號無關。登入一次就一直線上，出口地區在選單裡隨時換。它和 VPN 的區別、適合誰，見 [網路指南 05](../network/03-private-network-vs-vpn.md)。
+私網欄目用的是 Tailscale（基於 WireGuard 的組網工具），藍盾自己執行控制伺服器，你用**本站賬號**登入，與 Tailscale 官方賬號無關。登入一次就一直線上，出口地區在選單裡隨時換。它和 VPN 的區別、適合誰，見 [網路指南 03](../network/03-private-network-vs-vpn.md)。
 
 ## 安裝
 
 | 平臺 | 從哪裝 |
 |---|---|
 | Windows / macOS / Linux / Android | [網站私網頁面](https://7d24hrs.com/mesh)的下載區（本站直連，不用去官網） |
-| iPhone / iPad | App Store，需要非中國區 Apple ID（見 [排障 03](06-ios-app-store.md)） |
+| iPhone / iPad | App Store，需要非中國區 Apple ID（見 [用戶端 06](06-ios-app-store.md)） |
 
 ## 登入
 

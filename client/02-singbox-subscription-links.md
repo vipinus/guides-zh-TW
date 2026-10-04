@@ -38,7 +38,7 @@
 - **到期後**返回 401，續費後原配置不用換。
 - **2026 年 9 月以前匯入的**缺拒絕 IPv6 的規則，刪掉重導。
 
-匯入了連不上，見[排障 07](../troubleshooting/04-singbox-import-not-connecting.md)。
+匯入了連不上，見[排障 04](../troubleshooting/04-singbox-import-not-connecting.md)。
 
 ## 常見問題
 
