@@ -60,7 +60,7 @@ VPN 是系統級的：它拿到的是裝置上所有程式的流量，包括你�
 
 - [我們和其他 VPN 的區別](https://7d24hrs.com/zh-TW/guides/why-us)
 - [回國 VPN 免費還是付費](https://7d24hrs.com/zh-TW/guides/free-vs-paid)
-- [海外看騰訊影片提示版權限制怎麼辦](https://7d24hrs.com/zh-TW/guides/overseas-video)
+- [海外看騰訊視頻提示版權限制怎麼辦](https://7d24hrs.com/zh-TW/guides/overseas-video)
 - [關於我們：怎麼建、記錄什麼](https://7d24hrs.com/zh-TW/about)
 
 本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/risky-vpn-apps
