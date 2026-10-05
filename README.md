@@ -100,6 +100,9 @@
 | [07 · 該不該上路由器，四個型號怎麼挑](router/07-which-router-to-buy.md) |
 | [08 · 韌體裝好之後：會自己做的事，和你要知道的幾個開關](router/08-what-the-firmware-does.md) |
 | [09 · 路由器真分流和假分流有什麼區別](router/09-real-vs-fake-split.md) |
+| [10 · 路由器後面的 NAS、印表機、攝像頭會受影響嗎](router/10-nas-printer-camera-behind-router.md) |
+| [11 · 千兆、2G 寬頻配路由器，速度由什麼決定](router/11-fast-broadband-and-router-speed.md) |
+| [12 · 路由器斷電、斷網之後會自己恢復嗎](router/12-after-power-cut-or-dropout.md) |
 
 ### [排障指南](troubleshooting/)
 
