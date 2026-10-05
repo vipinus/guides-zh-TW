@@ -103,6 +103,7 @@
 | [10 · 路由器後面的 NAS、印表機、攝像頭會受影響嗎](router/10-nas-printer-camera-behind-router.md) |
 | [11 · 千兆、2G 寬頻配路由器，速度由什麼決定](router/11-fast-broadband-and-router-speed.md) |
 | [12 · 路由器斷電、斷網之後會自己恢復嗎](router/12-after-power-cut-or-dropout.md) |
+| [13 · 從官方韌體刷成我們的韌體：一步步照著做（附影片）](router/13-flash-from-stock-firmware-step-by-step.md) |
 
 ### [排障指南](troubleshooting/)
 
