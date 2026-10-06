@@ -131,4 +131,4 @@
 **以後升級韌體要重刷嗎？** 日常的小更新路由器會自己完成，不用管。只有大版本升級才需要重新生成、刷一次 sysupgrade 檔案，屆時網站會通知。
 
 ---
-由 [藍盾](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

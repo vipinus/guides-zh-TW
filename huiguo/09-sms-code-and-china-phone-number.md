@@ -22,4 +22,4 @@
 - 人臉識別不透過多數是 App 版本或攝像頭許可權問題，裝國內版 App 並允許攝像頭。
 
 ---
-由 [藍盾](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

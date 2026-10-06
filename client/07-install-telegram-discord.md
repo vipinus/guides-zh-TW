@@ -25,4 +25,4 @@
 - 遇到裝不上、閃退，把系統版本和機型告訴客服，多數是機型或版本不匹配。
 
 ---
-由 [藍盾](https://7d24hrs.com) 團隊整理 · 有問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com) 團隊整理 · 有問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

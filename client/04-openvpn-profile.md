@@ -2,7 +2,7 @@
 
 > 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/openvpn-setup
 
-OpenVPN 是老牌開源協議，幾乎所有系統、路由器韌體、NAS 都自帶客戶端。藍盾的配置檔案已經帶好賬號密碼和加密材料，匯入就能連。手機電腦日常用 AnyConnect 或 Hiddify 更省事；OpenVPN 的價值在**只認 OpenVPN 的地方**：OpenWrt 路由器、群暉 / 威聯通 NAS、Linux 伺服器、老裝置。
+OpenVPN 是老牌開源協議，幾乎所有系統、路由器韌體、NAS 都自帶客戶端。雷頓的配置檔案已經帶好賬號密碼和加密材料，匯入就能連。手機電腦日常用 AnyConnect 或 Hiddify 更省事；OpenVPN 的價值在**只認 OpenVPN 的地方**：OpenWrt 路由器、群暉 / 威聯通 NAS、Linux 伺服器、老裝置。
 
 ## 三步
 
@@ -43,4 +43,4 @@ OpenVPN 是老牌開源協議，幾乎所有系統、路由器韌體、NAS 都�
 配置檔案裡帶賬號密碼，等於賬號本身，別外傳；洩露了在網站改密碼，舊檔案立刻失效。線路的握手本身也加了密，沒有配置裡的金鑰連握手都發不起，伺服器對掃描器不可見。
 
 ---
-由 [藍盾](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

@@ -54,4 +54,4 @@ NAS 是家裡最需要走線路又最沒人管的裝置：下載器要連海外�
 本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/nas-openvpn
 
 ---
-由 [藍盾](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
