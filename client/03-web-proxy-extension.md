@@ -2,7 +2,7 @@
 
 > 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/web-proxy?utm_source=github&utm_content=client-03
 
-網頁代理只讓**這個瀏覽器**走線路，系統裡其他程式不動。不裝客戶端、不要管理員許可權、沒有「連線」狀態所以不會掉線。適合公司電腦、已經連著公司 VPN、或只想讓一個瀏覽器走線路的情況。什麼時候該用它、什麼時候必須用 VPN，見 [網路指南 02](../network/02-choose-your-connection-method.md)。
+網頁代理只讓**這個瀏覽器**走線路，系統裡其他程式不動。不裝客戶端、不要管理員許可權、沒有「連線」狀態，從理論上就不存在掉線。適合公司電腦、已經連著公司 VPN、或只想讓一個瀏覽器走線路的情況。什麼時候該用它、什麼時候必須用 VPN，見 [網路指南 02](../network/02-choose-your-connection-method.md)。
 
 ## 兩步
 
