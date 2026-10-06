@@ -59,7 +59,7 @@
 ## 延伸閱讀
 
 - [海外看騰訊視頻提示版權限制怎麼辦](https://7d24hrs.com/zh-TW/guides/overseas-video?utm_source=github&utm_content=china-access-10)
-- [回國 VPN 怎麼選](https://7d24hrs.com/zh-TW/guides/huiguo-vpn?utm_source=github&utm_content=china-access-10)
+- [回國 VPN 怎麼選](https://7d24hrs.com/zh-TW/guides/choose-china-vpn?utm_source=github&utm_content=china-access-10)
 - [AnyConnect 客戶端下載](https://7d24hrs.com/zh-TW/anyconnect?utm_source=github&utm_content=china-access-10)
 - [Hiddify 客戶端與訂閱匯入](https://7d24hrs.com/zh-TW/singbox?utm_source=github&utm_content=china-access-10)
 

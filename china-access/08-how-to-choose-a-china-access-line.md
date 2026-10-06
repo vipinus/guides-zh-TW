@@ -1,6 +1,6 @@
 # 08 · 回國線路怎麼選：國內 IP 從哪來、免費的坑在哪
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/huiguo-vpn?utm_source=github&utm_content=china-access-08
+> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/choose-china-vpn?utm_source=github&utm_content=china-access-08
 
 回國線路只做一件事：讓你在海外發出的請求，以一個**中國大陸**的 IP 到達騰訊視頻、網易雲、網銀。所以先看兩點——出口是不是真的大陸 IP，裝置上有沒有流量繞過它。速度、價格、客戶端都排在後面。
 
