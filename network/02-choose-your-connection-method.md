@@ -70,12 +70,12 @@
 
 ## 延伸閱讀
 
-- [我們和其他 VPN 的區別](https://7d24hrs.com/zh-TW/guides/why-us)
-- [私網（Tailscale）是什麼](https://7d24hrs.com/zh-TW/guides/tailscale-mesh)
-- [OpenVPN 怎麼用、什麼時候選它](https://7d24hrs.com/zh-TW/guides/openvpn-setup)
-- [網頁代理是什麼、什麼時候用](https://7d24hrs.com/zh-TW/guides/web-proxy)
+- [我們和其他 VPN 的區別](https://7d24hrs.com/zh-TW/guides/why-us?utm_source=github&utm_content=network-02)
+- [私網（Tailscale）是什麼](https://7d24hrs.com/zh-TW/guides/tailscale-mesh?utm_source=github&utm_content=network-02)
+- [OpenVPN 怎麼用、什麼時候選它](https://7d24hrs.com/zh-TW/guides/openvpn-setup?utm_source=github&utm_content=network-02)
+- [網頁代理是什麼、什麼時候用](https://7d24hrs.com/zh-TW/guides/web-proxy?utm_source=github&utm_content=network-02)
 
-本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/choose-connection
+本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=network-02) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=network-02)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

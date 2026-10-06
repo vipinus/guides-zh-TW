@@ -1,8 +1,8 @@
 # 05 · 怎麼聯絡我們、怎麼不失聯
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/stay-in-touch
+> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/stay-in-touch?utm_source=github&utm_content=troubleshooting-05
 
-[聯絡頁](https://7d24hrs.com/contact)上有三個客服群（QQ、Telegram、Discord）、客服郵箱和人工客服 QQ。三個群裡都有 AI 客服「海綿寶寶」24 小時待命，群主和人工客服也在。怎麼問它答得最準，見 [10](10-ask-ai-support.md)。
+[聯絡頁](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-05)上有三個客服群（QQ、Telegram、Discord）、客服郵箱和人工客服 QQ。三個群裡都有 AI 客服「海綿寶寶」24 小時待命，群主和人工客服也在。怎麼問它答得最準，見 [10](10-ask-ai-support.md)。
 
 ## 三個群怎麼選
 
@@ -36,4 +36,4 @@
 - 別在群裡貼配置檔案、二維碼、訂閱連結——那等於你的賬號。
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=troubleshooting-05) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-05)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

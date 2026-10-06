@@ -41,12 +41,12 @@
 
 ## 延伸閱讀
 
-- [私網頁：下載與登入步驟](https://7d24hrs.com/zh-TW/mesh)
-- [私網（Tailscale）是什麼](https://7d24hrs.com/zh-TW/guides/tailscale-mesh)
-- [在國外看國內家裡的監控和 NAS](https://7d24hrs.com/zh-TW/guides/home-camera)
-- [路由器韌體能做什麼](https://7d24hrs.com/zh-TW/guides/router-firmware)
+- [私網頁：下載與登入步驟](https://7d24hrs.com/zh-TW/mesh?utm_source=github&utm_content=client-08)
+- [私網（Tailscale）是什麼](https://7d24hrs.com/zh-TW/guides/tailscale-mesh?utm_source=github&utm_content=client-08)
+- [在國外看國內家裡的監控和 NAS](https://7d24hrs.com/zh-TW/guides/home-camera?utm_source=github&utm_content=client-08)
+- [路由器韌體能做什麼](https://7d24hrs.com/zh-TW/guides/router-firmware?utm_source=github&utm_content=client-08)
 
-本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/multi-device
+本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=client-08) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=client-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

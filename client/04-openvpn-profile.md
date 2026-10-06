@@ -1,12 +1,12 @@
 # 04 · OpenVPN：下載 .ovpn 配置匯入即連，路由器、NAS、Linux 都能用
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/openvpn-setup
+> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/openvpn-setup?utm_source=github&utm_content=client-04
 
 OpenVPN 是老牌開源協議，幾乎所有系統、路由器韌體、NAS 都自帶客戶端。雷頓的配置檔案已經帶好賬號密碼和加密材料，匯入就能連。手機電腦日常用 AnyConnect 或 Hiddify 更省事；OpenVPN 的價值在**只認 OpenVPN 的地方**：OpenWrt 路由器、群暉 / 威聯通 NAS、Linux 伺服器、老裝置。
 
 ## 三步
 
-1. 在[網站專網頁面](https://7d24hrs.com/openvpn)的表裡裝你係統的客戶端（各平臺都有官方 OpenVPN Connect；Windows 也可用 OpenVPN GUI，macOS 可用 Tunnelblick）。
+1. 在[網站專網頁面](https://7d24hrs.com/openvpn?utm_source=github&utm_content=client-04)的表裡裝你係統的客戶端（各平臺都有官方 OpenVPN Connect；Windows 也可用 OpenVPN GUI，macOS 可用 Tunnelblick）。
 2. 登入後**點地區國旗**下載該地區的 .ovpn。一個地區一個檔案。
 3. 客戶端裡開啟這個檔案，連線。
 
@@ -43,4 +43,4 @@ OpenVPN 是老牌開源協議，幾乎所有系統、路由器韌體、NAS 都�
 配置檔案裡帶賬號密碼，等於賬號本身，別外傳；洩露了在網站改密碼，舊檔案立刻失效。線路的握手本身也加了密，沒有配置裡的金鑰連握手都發不起，伺服器對掃描器不可見。
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=client-04) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=client-04)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

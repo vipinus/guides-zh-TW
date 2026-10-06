@@ -1,6 +1,6 @@
 # 02 · 在國外看國內影片
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/overseas-video
+> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/overseas-video?utm_source=github&utm_content=huiguo-02
 
 ## 為什麼看不了
 
@@ -35,4 +35,4 @@
 跨境鏈路是瓶頸。1080p 需要穩定 5 Mbps 以上，晚上高峰期不夠就降到 720p。選離你近、到大陸有最佳化線路的入口，比換平臺管用。
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=huiguo-02) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=huiguo-02)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

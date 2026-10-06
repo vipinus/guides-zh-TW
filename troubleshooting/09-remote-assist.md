@@ -40,7 +40,7 @@
 
 開啟 RustDesk，主介面會顯示本機的 ID 和一次性密碼。交出去之前先確認三件事：
 
-1. **是你先提出的。** 你在[聯絡頁](https://7d24hrs.com/zh-TW/contact)上的官方群裡描述了問題，客服認為需要遠端，才進行下一步。我們的客服不會主動找你、要求你裝遠端軟體或索取連線碼；誰主動來要，都先到官方群核實。
+1. **是你先提出的。** 你在[聯絡頁](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-09)上的官方群裡描述了問題，客服認為需要遠端，才進行下一步。我們的客服不會主動找你、要求你裝遠端軟體或索取連線碼；誰主動來要，都先到官方群核實。
 2. **只發給官方客服渠道**：聯絡頁上列出的人工客服。群外自稱「雷頓客服」的私聊都不是我們。
 3. **別發到群裡。** 群是很多人都能看到的地方，ID 加密碼等於把電腦的鑰匙貼在門上。
 
@@ -76,11 +76,11 @@
 
 ## 延伸閱讀
 
-- [RustDesk 遠端協助怎麼用（網站指南）](https://7d24hrs.com/zh-TW/guides/rustdesk-certificate)
-- [Mac 提示「已損壞」怎麼辦](https://7d24hrs.com/zh-TW/guides/antivirus-false-positive)
-- [聯絡頁：客服群、人工客服與郵箱](https://7d24hrs.com/zh-TW/contact)
+- [RustDesk 遠端協助怎麼用（網站指南）](https://7d24hrs.com/zh-TW/guides/rustdesk-certificate?utm_source=github&utm_content=troubleshooting-09)
+- [Mac 提示「已損壞」怎麼辦](https://7d24hrs.com/zh-TW/guides/antivirus-false-positive?utm_source=github&utm_content=troubleshooting-09)
+- [聯絡頁：客服群、人工客服與郵箱](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-09)
 - [05 · 怎麼聯絡我們、怎麼不失聯](05-how-to-reach-us.md)
 - [01 · 連不上、慢、斷線的排查清單](01-cannot-connect-slow-drops.md)
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=troubleshooting-09) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

@@ -1,6 +1,6 @@
 # 08 · 回國線路怎麼選：國內 IP 從哪來、免費的坑在哪
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/huiguo-vpn
+> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/huiguo-vpn?utm_source=github&utm_content=huiguo-08
 
 回國線路只做一件事：讓你在海外發出的請求，以一個**中國大陸**的 IP 到達騰訊視頻、網易雲、網銀。所以先看兩點——出口是不是真的大陸 IP，裝置上有沒有流量繞過它。速度、價格、客戶端都排在後面。
 
@@ -53,4 +53,4 @@
 **能用 Clash 嗎？** 能。雷頓同時給 Hiddify 配置地址和 hysteria2 分享連結，Clash Meta 匯入分享連結即可；匯入後把國內域名設成走節點，別設"直連"。
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=huiguo-08) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=huiguo-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

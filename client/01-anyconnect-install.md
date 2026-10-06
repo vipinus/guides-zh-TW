@@ -1,6 +1,6 @@
 # 01 · 思科 AnyConnect：各平臺安裝、連線與更新
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/anyconnect-china
+> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/anyconnect-china?utm_source=github&utm_content=client-01
 
 AnyConnect 是思科的企業 VPN 客戶端，現在的正式名字叫 **Cisco Secure Client**，用法沒變。不需要證書檔案、不需要匯入配置，填地址和賬號密碼就能連。它在中國能不能用、連不上怎麼換，見 [出海指南 02](../chuhai/02-anyconnect-in-china.md)。
 
@@ -8,7 +8,7 @@ AnyConnect 是思科的企業 VPN 客戶端，現在的正式名字叫 **Cisco S
 
 | 平臺 | 裝哪個 | 從哪裝 |
 |---|---|---|
-| Windows 10 及以上 | Cisco Secure Client 5.x | [網站思科頁面](https://7d24hrs.com/anyconnect) |
+| Windows 10 及以上 | Cisco Secure Client 5.x | [網站思科頁面](https://7d24hrs.com/anyconnect?utm_source=github&utm_content=client-01) |
 | Windows 7 / 8 | AnyConnect 4.9（最後支援它們的版本，不再更新） | 同上 |
 | macOS | Cisco Secure Client 5.x | 同上 |
 | iOS | Cisco Secure Client | App Store；商店搜不到就裝開源的 OpenConnect，協議相同 |
@@ -37,4 +37,4 @@ Windows 上還有開源的 OpenConnect-GUI 可選，賬號通用。
 | Connection attempt has failed | 這個地址暫時不可達，換地區 |
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=client-01) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=client-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

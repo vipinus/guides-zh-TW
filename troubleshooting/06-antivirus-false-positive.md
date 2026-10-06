@@ -1,6 +1,6 @@
 # 06 · Mac 提示「已損壞」怎麼辦
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/antivirus-false-positive
+> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/antivirus-false-positive?utm_source=github&utm_content=troubleshooting-06
 
 結論先說：檔案沒有壞，也沒有被人動過手腳。Mac 上雙擊 Hiddify 提示「已損壞，無法開啟」或「無法驗證開發者」，是系統的 Gatekeeper 在攔截**沒有 Apple 簽名和公證**的應用——我們分發的桌面客戶端目前沒有購買簽名。
 
@@ -68,4 +68,4 @@ iOS 從 App Store 裝不存在這個問題；安卓偶爾提示未知來源，�
 
 ---
 
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=troubleshooting-06) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-06)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

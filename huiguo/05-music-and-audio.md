@@ -26,4 +26,4 @@
 音樂類流量小，用**網頁代理**或瀏覽器方式就夠，不需要整臺裝置走線路。手機上則可以只讓音樂 App 走線路（分應用代理），其餘 App 保持本地網路，省流量也省電。
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=huiguo-05) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=huiguo-05)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

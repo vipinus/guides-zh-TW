@@ -1,6 +1,6 @@
 # 05 · 私網（Tailscale）：安裝、登入本站控制伺服器、選出口
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/tailscale-mesh
+> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/tailscale-mesh?utm_source=github&utm_content=client-05
 
 私網欄目用的是 Tailscale（基於 WireGuard 的組網工具），雷頓自己執行控制伺服器，你用**本站賬號**登入，與 Tailscale 官方賬號無關。登入一次就一直線上，出口地區在選單裡隨時換。它和 VPN 的區別、適合誰，見 [網路指南 03](../network/03-private-network-vs-vpn.md)。
 
@@ -8,7 +8,7 @@
 
 | 平臺 | 從哪裝 |
 |---|---|
-| Windows / macOS / Linux / Android | [網站私網頁面](https://7d24hrs.com/mesh)的下載區（本站直連，不用去官網） |
+| Windows / macOS / Linux / Android | [網站私網頁面](https://7d24hrs.com/mesh?utm_source=github&utm_content=client-05)的下載區（本站直連，不用去官網） |
 | iPhone / iPad | App Store，需要非中國區 Apple ID（見 [用戶端 06](06-ios-app-store.md)） |
 
 ## 登入
@@ -37,4 +37,4 @@
 - 校園網 / 公司網限制 UDP：WireGuard 走 UDP，只能靠中繼，很慢；換 AnyConnect。
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=client-05) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=client-05)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

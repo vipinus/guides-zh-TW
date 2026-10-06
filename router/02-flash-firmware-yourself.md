@@ -1,8 +1,8 @@
 # 02 · 自己刷韌體：從官方韌體一步步照著做（附影片）
 
-> 影片教程（約兩分半，中英文配音）：https://7d24hrs.com/zh-TW/video/router-flash
+> 影片教程（約兩分半，中英文配音）：https://7d24hrs.com/zh-TW/video/router-flash?utm_source=github&utm_content=router-02
 >
-> 網站版（含簡體與英文）：https://7d24hrs.com/zh-TW/guides/router-flash
+> 網站版（含簡體與英文）：https://7d24hrs.com/zh-TW/guides/router-flash?utm_source=github&utm_content=router-02
 
 適合已經有路由器、且型號在支援列表裡的人：手裡有一臺還是官方系統的路由器，從開啟網站到全家連上線路，每一步點哪裡、會看到什麼、哪裡容易出錯。演示用的是 GL.iNet GL-MT3000，其他型號步驟相同，只是官方管理頁長得不一樣。不想自己動手的，買預裝的更省事，見 [01](01-plug-and-play-router.md)；型號怎麼選見 [07](07-which-router-to-buy.md)。
 
@@ -131,4 +131,4 @@
 **以後升級韌體要重刷嗎？** 日常的小更新路由器會自己完成，不用管。只有大版本升級才需要重新生成、刷一次 sysupgrade 檔案，屆時網站會通知。
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=router-02) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=router-02)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

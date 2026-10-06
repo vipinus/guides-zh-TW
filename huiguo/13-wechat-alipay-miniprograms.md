@@ -38,4 +38,4 @@
 有人以為公眾號打不開是"被封了"或者"賬號有問題"，於是反覆解除安裝重灌。基本不是——同一篇文章，換個 IP 立刻就出來了。判斷方法很簡單：讓國內的朋友把同一條連結開啟截圖給你，如果他能看你不能，那就是 IP 的事。
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=huiguo-13) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=huiguo-13)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

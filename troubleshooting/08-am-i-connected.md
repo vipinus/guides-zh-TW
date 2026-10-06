@@ -88,12 +88,12 @@
 
 ## 延伸閱讀
 
-- [連不上、慢、斷線怎麼查](https://7d24hrs.com/zh-TW/guides/connect-issues)
-- [在國內選哪個地區最快](https://7d24hrs.com/zh-TW/guides/pick-region)
-- [各種連線方式適用的場景](https://7d24hrs.com/zh-TW/guides/choose-connection)
-- [網頁代理是什麼、什麼時候用](https://7d24hrs.com/zh-TW/guides/web-proxy)
-- [路由器韌體能做什麼](https://7d24hrs.com/zh-TW/guides/router-firmware)
-- [海外看騰訊視頻提示版權限制怎麼辦](https://7d24hrs.com/zh-TW/guides/overseas-video)
+- [連不上、慢、斷線怎麼查](https://7d24hrs.com/zh-TW/guides/connect-issues?utm_source=github&utm_content=troubleshooting-08)
+- [在國內選哪個地區最快](https://7d24hrs.com/zh-TW/guides/pick-region?utm_source=github&utm_content=troubleshooting-08)
+- [各種連線方式適用的場景](https://7d24hrs.com/zh-TW/guides/choose-connection?utm_source=github&utm_content=troubleshooting-08)
+- [網頁代理是什麼、什麼時候用](https://7d24hrs.com/zh-TW/guides/web-proxy?utm_source=github&utm_content=troubleshooting-08)
+- [路由器韌體能做什麼](https://7d24hrs.com/zh-TW/guides/router-firmware?utm_source=github&utm_content=troubleshooting-08)
+- [海外看騰訊視頻提示版權限制怎麼辦](https://7d24hrs.com/zh-TW/guides/overseas-video?utm_source=github&utm_content=troubleshooting-08)
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=troubleshooting-08) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

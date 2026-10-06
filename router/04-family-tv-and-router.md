@@ -1,6 +1,6 @@
 # 04 · 給家裡老人和電視用
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/family-tv
+> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/family-tv?utm_source=github&utm_content=router-04
 
 ## 場景
 
@@ -29,4 +29,4 @@
 分流模式下，本地的銀行網站、本地流媒體、印表機照常直連。只有名單內的國內域名走回國線路。這也是為什麼推薦分流而不是全域性。
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=router-04) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=router-04)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

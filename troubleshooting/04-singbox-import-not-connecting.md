@@ -1,6 +1,6 @@
 # 04 · 流量偽裝（Hiddify）匯入了卻連不上
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/singbox-subscription
+> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/singbox-subscription?utm_source=github&utm_content=troubleshooting-04
 
 按報錯對號入座。匯入方法本身見 [Hiddify 訂閱連結怎麼用](../client/02-singbox-subscription-links.md)。
 
@@ -25,4 +25,4 @@
 把三樣告訴客服：客戶端名字和版本、地區、報錯原文或截圖。
 
 ---
-由 [雷頓](https://7d24hrs.com) 團隊整理 · 問題來 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=troubleshooting-04) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-04)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
