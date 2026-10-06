@@ -56,7 +56,7 @@ echo /usr/share/hiddify/lib | sudo tee /etc/ld.so.conf.d/hiddify.conf && sudo ld
 
 3. **每次升級 Hiddify 後要再執行一次**：授權掛在程式檔案上，升級換了檔案，授權就沒了。
 
-只提供 x64 的 deb。ARM 的 Linux 裝置沒有對應的包，可以用專網（OpenVPN）。
+deb 包是 x64 的；ARM 的 Linux 裝置用專網（OpenVPN），賬號通用。
 
 ## 安卓
 
@@ -75,7 +75,7 @@ echo /usr/share/hiddify/lib | sudo tee /etc/ld.so.conf.d/hiddify.conf && sudo ld
 ## 裝好後：匯入訂閱並連線
 
 1. 登入網站，開啟偽裝頁。
-2. 點想用的地區國旗，彈出二維碼；或點頁面上方的「匯入所有自動選擇」，一次匯入境外全部地區、由客戶端自動選。**它不包含中國區**：回國看影片、登網銀要單獨點中國國旗匯入。
+2. 點想用的地區國旗，彈出二維碼；或點頁面上方的「匯入所有自動選擇」，一次匯入境外全部地區、由客戶端自動選。**中國區單獨匯入**：回國看影片、登網銀時點中國國旗匯入。
 3. 手機：點「複製匯入連結」後切到 Hiddify 按提示新增，或用另一臺裝置上的 Hiddify 掃碼。電腦：點「複製配置地址（貼上用）」，在 Hiddify 裡點「+」→「從剪貼簿新增」。
 4. 點連線。
 
@@ -90,7 +90,7 @@ echo /usr/share/hiddify/lib | sudo tee /etc/ld.so.conf.d/hiddify.conf && sudo ld
 
 **Linux 升級 Hiddify 後又開不了 VPN 模式了？** 正常現象，升級後重新執行一次授權命令。
 
-**ARM 的 Windows 或 Linux 電腦能用嗎？** 目前沒有這兩種桌面包，可以換用專網（OpenVPN）等其他接入方式，賬號通用。
+**ARM 的 Windows 或 Linux 電腦能用嗎？** 能，用專網（OpenVPN）等其他接入方式，賬號通用；Hiddify 桌面包目前是 x64 的。
 
 **不想折騰放行步驟？** 思科（Cisco Secure Client）、專網（OpenVPN Connect）、私網（Tailscale）都是廠商簽名的客戶端，不會被報毒，Mac 上也不會提示「已損壞」，賬號是同一個。
 

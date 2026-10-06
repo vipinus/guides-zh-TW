@@ -16,7 +16,7 @@ Linux 上走線路有兩條路，按需求選：整臺機器都走（拉 Docker 
 
 Docker 守護程序不讀 shell 環境變數，要寫進 /etc/systemd/system/docker.service.d/proxy.conf 的 Environment= 再重啟 docker；apt 寫 /etc/apt/apt.conf.d/proxy.conf 的 Acquire::https::Proxy。
 
-這條路不掉線、不需要 root、不改路由，適合公司伺服器和只想加速拉取的場景；代價是隻覆蓋認代理變數的程式。
+這條路不掉線、不需要 root、不改路由，適合公司伺服器和只想加速拉取的場景；它只作用於認代理變數的程式，其餘流量不動。
 
 ## 路三：桌面 Linux 用網路管理器
 

@@ -66,7 +66,7 @@
 | [04 · 我們和其他 VPN 的區別](network/04-why-us.md) |
 | [05 · 如何識別有風險的 VPN 軟體](network/05-risky-vpn-apps.md) |
 | [06 · 為什麼有時候快、有時候慢](network/06-why-sometimes-fast-sometimes-slow.md) |
-| [07 · 什麼時候你其實不需要我們](network/07-when-you-do-not-need-us.md) |
+| [07 · 哪些問題靠線路解決，哪些要另找辦法](network/07-when-you-do-not-need-us.md) |
 | [08 · 賬號三檔怎麼選、續費與付款](network/08-account-tiers-and-payment.md) |
 | [09 · 連線不夠裝置用怎麼辦](network/09-not-enough-devices.md) |
 
