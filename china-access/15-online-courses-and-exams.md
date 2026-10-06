@@ -47,4 +47,4 @@
 不少高校給學生髮校內 VPN，用來訪問圖書館資料庫。那個和這裡說的是兩回事，也不衝突：校內 VPN 解決的是"你有沒有許可權用這個資料庫"，而你首先得能連到學校的伺服器。兩者可以疊加使用。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=huiguo-15) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=huiguo-15)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=china-access-15) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=china-access-15)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

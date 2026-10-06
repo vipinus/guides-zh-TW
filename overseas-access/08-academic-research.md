@@ -47,4 +47,4 @@ Google 學術對**訪問頻率**比較敏感。如果你用指令碼批次抓，
 真正需要選歐美的情況是：某些出版社按訪問來源做區域限制，或者你的機構賬號綁定了特定地區。遇到再換即可。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=chuhai-08) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=chuhai-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=overseas-access-08) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

@@ -38,7 +38,7 @@ Dropbox、Telegram 桌面版、Steam、網盤客戶端、開發工具這類獨�
 ## 裝不了客戶端時（公司電腦）
 
 - Dropbox、網盤用網頁版：瀏覽器裡用 [網頁代理](03-web-proxy-extension.md) 開啟 dropbox.com，能上傳下載，沒有自動同步。
-- 命令列工具（git、pip、npm、curl）認加密代理：把網頁代理地址填進 `https_proxy`，見 [出海 05 · Linux 與命令列](../chuhai/05-linux-server.md)。
+- 命令列工具（git、pip、npm、curl）認加密代理：把網頁代理地址填進 `https_proxy`，見 [出海 05 · Linux 與命令列](../overseas-access/05-linux-server.md)。
 - 其餘只認 HTTP / SOCKS5 的桌面軟體，放到自己的電腦或手機上用；別為此在公司電腦上裝整機 VPN，會觸發公司的安全告警。
 
 ## 常見問題

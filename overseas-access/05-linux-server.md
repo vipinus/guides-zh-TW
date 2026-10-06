@@ -51,12 +51,12 @@ Docker 守護程序不讀 shell 環境變數，要寫進 /etc/systemd/system/doc
 
 ## 延伸閱讀
 
-- [專網頁：客戶端下載與配置檔案](https://7d24hrs.com/zh-TW/openvpn?utm_source=github&utm_content=chuhai-05)
-- [OpenVPN 怎麼用、什麼時候選它](https://7d24hrs.com/zh-TW/guides/openvpn-setup?utm_source=github&utm_content=chuhai-05)
-- [群暉、威聯通 NAS 怎麼走線路](https://7d24hrs.com/zh-TW/guides/nas-openvpn?utm_source=github&utm_content=chuhai-05)
-- [網頁代理是什麼、什麼時候用](https://7d24hrs.com/zh-TW/guides/web-proxy?utm_source=github&utm_content=chuhai-05)
+- [專網頁：客戶端下載與配置檔案](https://7d24hrs.com/zh-TW/openvpn?utm_source=github&utm_content=overseas-access-05)
+- [OpenVPN 怎麼用、什麼時候選它](https://7d24hrs.com/zh-TW/guides/openvpn-setup?utm_source=github&utm_content=overseas-access-05)
+- [群暉、威聯通 NAS 怎麼走線路](https://7d24hrs.com/zh-TW/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-05)
+- [網頁代理是什麼、什麼時候用](https://7d24hrs.com/zh-TW/guides/web-proxy?utm_source=github&utm_content=overseas-access-05)
 
-本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/linux-server?utm_source=github&utm_content=chuhai-05
+本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=chuhai-05) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=chuhai-05)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=overseas-access-05) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-05)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

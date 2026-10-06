@@ -2,7 +2,7 @@
 
 > 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/anyconnect-china?utm_source=github&utm_content=client-01
 
-AnyConnect 是思科的企業 VPN 客戶端，現在的正式名字叫 **Cisco Secure Client**，用法沒變。不需要證書檔案、不需要匯入配置，填地址和賬號密碼就能連。它在中國能不能用、連不上怎麼換，見 [出海指南 02](../chuhai/02-anyconnect-in-china.md)。
+AnyConnect 是思科的企業 VPN 客戶端，現在的正式名字叫 **Cisco Secure Client**，用法沒變。不需要證書檔案、不需要匯入配置，填地址和賬號密碼就能連。它在中國能不能用、連不上怎麼換，見 [出海指南 02](../overseas-access/02-anyconnect-in-china.md)。
 
 ## 安裝
 
