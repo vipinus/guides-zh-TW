@@ -13,11 +13,11 @@
 
 ## 登入
 
-1. **先退出官方賬號**（登入過的話）：手機點頭像 → Log Out；電腦執行 `tailscale logout`（Linux 前加 sudo）。不退乾淨，下一步的入口不出現。
+1. **先退出官方賬號**（登入過的話）：手機點頭像 → Log Out；電腦執行 `tailscale logout`。不退乾淨，下一步的入口不出現。
 2. **把登入指向本站**：
    - 手機：未登入介面右上角「⋯」→ Use custom server（部分版本叫 Use an alternate server），填網站私網頁面給的地址，點 Log in。
    - Windows / Linux：在網站頁面複製那條 `tailscale up --login-server=…` 命令，PowerShell / 終端裡執行。
-   - macOS：**按住 Option** 點選單欄圖示 → Debug → Custom Login Server → Add Account，填地址。
+   - macOS：**不要點 Log in**。在 Tailscale 視窗點賬號那一行的箭頭 → Account Settings… → Accounts →「Add Account…」旁的小箭頭 → Add Account Using Alternate Server，貼上地址後點 Add Account…。
 3. 瀏覽器自動開啟本站登入頁，用本站賬號確認。回到客戶端已經線上。
 
 ## 選出口
