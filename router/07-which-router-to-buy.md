@@ -1,6 +1,6 @@
 # 07 · 該不該上路由器，四個型號怎麼挑
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/router?utm_source=github&utm_content=router-07
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/router?utm_source=github&utm_content=router-07
 
 路由器方案解決的是"裝置太多、有些裝不了客戶端"：線路在路由器上建一次，電視、遊戲機、音箱、老人手機全部自動走，什麼都不用裝。需要的只是一臺能刷韌體的路由器和十分鐘刷機。**個人、家庭、企業三檔賬號都能用路由器。**
 
@@ -67,4 +67,4 @@
 **韌體有沒有後門？** 基於 OpenWrt 編譯，只多了連線路的元件和分流規則；線路只記錄連線時長和流量總量用於計費，不記錄訪問內容。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=router-07) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=router-07)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-07) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-07)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

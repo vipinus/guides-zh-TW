@@ -1,8 +1,8 @@
 # 05 · 怎麼聯絡我們、怎麼不失聯
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/stay-in-touch?utm_source=github&utm_content=troubleshooting-05
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/stay-in-touch?utm_source=github&utm_content=troubleshooting-05
 
-[聯絡頁](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-05)上有三個客服群（QQ、Telegram、Discord）、客服郵箱和人工客服 QQ。三個群裡都有 AI 客服「海綿寶寶」24 小時待命，群主和人工客服也在。怎麼問它答得最準，見 [10](10-ask-ai-support.md)。
+[聯絡頁](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-05)上有三個客服群（QQ、Telegram、Discord）、客服郵箱和人工客服 QQ。三個群裡都有 AI 客服「海綿寶寶」24 小時待命，群主和人工客服也在。怎麼問它答得最準，見 [10](10-ask-ai-support.md)。
 
 ## 三個群怎麼選
 
@@ -22,12 +22,12 @@
 
 ## 不失聯清單
 
-1. **記住三個域名和順序**：`7d24hrs.com` → `7x24btc.com` → `anyfq.com`，內容相同、賬號通用，一個打不開換下一個。存書籤。
+1. **記住四個域名和順序**：`leotun.com` → `7d24hrs.com` → `7x24btc.com` → `anyfq.com`，內容相同、賬號通用，一個打不開換下一個。存書籤。
 2. **至少進一個群**。域名被封時群裡第一時間發新地址；群的邀請連結不依賴網站域名。國內 QQ 群不需要線路，是最後的兜底。
 3. **客戶端先裝好登入好**。線路地址自動更換，網站打不開不影響已配置的客戶端連線；連上後再開網站。
 4. **註冊郵箱保持有效**，把客服郵箱加白名單：到期提醒、挽回郵件、試用碼、域名變動通知都從那裡來。
 5. **GitHub 知識庫**的 README 頂部寫著當前網址和群入口，國內多數網路能直接開啟，也是備用路。
-6. 推薦朋友給 `7d24hrs.com`，它是對外專用域名；被封了我們換映象，老使用者不受影響。
+6. 推薦朋友給 `www.leotun.com`，它是對外專用域名；被封了我們換映象，老使用者不受影響。
 
 ## 安全提醒
 
@@ -36,4 +36,4 @@
 - 別在群裡貼配置檔案、二維碼、訂閱連結——那等於你的賬號。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=troubleshooting-05) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-05)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-05) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-05)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

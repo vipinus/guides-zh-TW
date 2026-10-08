@@ -1,6 +1,6 @@
 # 01 · 連不上、慢、斷線的排查清單
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/connect-issues?utm_source=github&utm_content=troubleshooting-01
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/connect-issues?utm_source=github&utm_content=troubleshooting-01
 
 按順序來，每一步都很快，多數問題在前四步解決。
 
@@ -31,4 +31,4 @@
 上面都試過還不行，把這三樣告訴客服：用的接入方式、地區、報錯原文或截圖。有這三樣，多數問題一次就能定位。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=troubleshooting-01) 團隊整理 · 有問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-01) 團隊整理 · 有問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

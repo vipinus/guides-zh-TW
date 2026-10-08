@@ -1,12 +1,12 @@
 # 03 · 網頁代理：ZeroOmega 擴充套件兩步配好
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/web-proxy?utm_source=github&utm_content=client-03
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/web-proxy?utm_source=github&utm_content=client-03
 
 網頁代理只讓**這個瀏覽器**走線路，系統裡其他程式不動。不裝客戶端、不要管理員許可權、沒有「連線」狀態，從理論上就不存在掉線。適合公司電腦、已經連著公司 VPN、或只想讓一個瀏覽器走線路的情況。什麼時候該用它、什麼時候必須用 VPN，見 [網路指南 02](../network/02-choose-your-connection-method.md)。
 
 ## 兩步
 
-1. **裝擴充套件**：Chrome / Edge / Firefox 裝 ZeroOmega（SwitchyOmega 的延續版本），[網站網頁代理頁面](https://7d24hrs.com/httpproxy?utm_source=github&utm_content=client-03)有各瀏覽器的安裝入口。
+1. **裝擴充套件**：Chrome / Edge / Firefox 裝 ZeroOmega（SwitchyOmega 的延續版本），[網站網頁代理頁面](https://www.leotun.com/httpproxy?utm_source=github&utm_content=client-03)有各瀏覽器的安裝入口。
 2. **匯入**：登入網站，在網頁代理頁面點你要用的地區的國旗（要一次匯入全部地區就點「複製所有地區匯入連結」），設定地址就複製好了；開啟擴充套件的「匯入/匯出」，貼到「線上恢復」一欄，點「恢復」。地區、地址、加密方式一次匯入，不用手填。
 
 之後點擴充套件圖示選一個地區，瀏覽器彈出的登入框填網站賬號密碼。換地區就在圖示裡點一下；要回本地直連，切「直接連線」。
@@ -27,4 +27,4 @@
 | 慢 | 換地區，代理和 VPN 走同一批伺服器 |
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=client-03) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=client-03)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-03) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-03)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

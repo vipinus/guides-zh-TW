@@ -20,4 +20,4 @@
 - **想換一臺路由器**：先在網站上解綁舊的，見[MAC 繫結與換路由器](05-mac-binding-and-replacing.md)。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=router-01) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=router-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-01) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

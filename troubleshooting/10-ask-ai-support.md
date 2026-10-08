@@ -1,6 +1,6 @@
 # 10 · 如何有效溝通 AI 客服
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/ai-support?utm_source=github&utm_content=troubleshooting-10
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/ai-support?utm_source=github&utm_content=troubleshooting-10
 
 AI 客服「海綿寶寶」24 小時在 Telegram、QQ、Discord 三個群裡回答（入口見 [05](05-how-to-reach-us.md)）。它答得準不準，主要看**第一句話有沒有把情況說全**。說全了，一次就能給步驟；只說「連不上」，它只能先反問。**有報錯直接發截圖，用哪種語言問都行。**
 
@@ -51,4 +51,4 @@ AI 客服「海綿寶寶」24 小時在 Telegram、QQ、Discord 三個群裡回�
 - 客服不會私聊要密碼、驗證碼或付款，也不會主動要你裝遠端控制軟體。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=troubleshooting-10) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-10)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-10) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-10)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

@@ -23,4 +23,4 @@
 把流量先送到一臺大陸的伺服器，再由它訪問目標。做法有客戶端、網頁代理、路由器三種，選擇方法見姊妹倉庫的[各種連線方式適用的場景](../network/02-choose-your-connection-method.md)。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=china-access-01) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=china-access-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-01) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

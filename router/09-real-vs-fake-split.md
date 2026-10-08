@@ -1,6 +1,6 @@
 # 09 · 路由器分流是怎麼做的
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/router-smart-split?utm_source=github&utm_content=router-09
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/router-smart-split?utm_source=github&utm_content=router-09
 
 同樣叫「智慧分流」，有的路由器用起來就是彆扭。分流是什麼見 [03](03-router-split-routing.md)，這篇只講分流該做到什麼、沒做到時會看到哪些現象，以及我們的路由器怎麼做。
 
@@ -60,4 +60,4 @@
 **會影響印表機、NAS 嗎？** 不會，家裡網路裡的裝置照常直接訪問。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=router-09) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=router-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-09) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

@@ -96,11 +96,11 @@ deb 包是 x64 的；ARM 的 Linux 裝置用專網（OpenVPN），賬號通用�
 
 ## 延伸閱讀
 
-- [偽裝頁：客戶端下載與各地區二維碼](https://7d24hrs.com/zh-TW/singbox?utm_source=github&utm_content=client-09)
-- [Hiddify 訂閱連結怎麼匯入](https://7d24hrs.com/zh-TW/guides/singbox-subscription?utm_source=github&utm_content=client-09)
-- [客戶端被報毒 / Mac 提示已損壞：先驗證，再放行](https://7d24hrs.com/zh-TW/guides/antivirus-false-positive?utm_source=github&utm_content=client-09)
-- [macOS「網路擴充套件」授權是什麼、怎麼放行](https://7d24hrs.com/zh-TW/guides/macos-network-extension?utm_source=github&utm_content=client-09)
-- [iOS 裝不了應用怎麼辦](https://7d24hrs.com/zh-TW/guides/ios-app-store?utm_source=github&utm_content=client-09)
+- [偽裝頁：客戶端下載與各地區二維碼](https://www.leotun.com/zh-TW/singbox?utm_source=github&utm_content=client-09)
+- [Hiddify 訂閱連結怎麼匯入](https://www.leotun.com/zh-TW/guides/singbox-subscription?utm_source=github&utm_content=client-09)
+- [客戶端被報毒 / Mac 提示已損壞：先驗證，再放行](https://www.leotun.com/zh-TW/guides/antivirus-false-positive?utm_source=github&utm_content=client-09)
+- [macOS「網路擴充套件」授權是什麼、怎麼放行](https://www.leotun.com/zh-TW/guides/macos-network-extension?utm_source=github&utm_content=client-09)
+- [iOS 裝不了應用怎麼辦](https://www.leotun.com/zh-TW/guides/ios-app-store?utm_source=github&utm_content=client-09)
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=client-09) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=client-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-09) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

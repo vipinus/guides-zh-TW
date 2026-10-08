@@ -43,4 +43,4 @@
 **離得近不一定快。** 網路走的是運營商之間的互聯路徑，不是地圖上的直線距離。有時候繞一圈反而更快，也有時候同一個地區不同時段快慢完全不同。所以"哪個地區最快"沒有標準答案，只能試。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=network-06) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=network-06)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-06) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-06)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

@@ -1,6 +1,6 @@
 # 10 · Dropbox 等軟體要填 HTTP / SOCKS 代理怎麼辦
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/app-proxy?utm_source=github&utm_content=client-10
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/app-proxy?utm_source=github&utm_content=client-10
 
 **先說現狀：代理必須加密。** 不加密的代理（普通 HTTP、SOCKS4、SOCKS5）在國內網路上會被識別和干擾，連一會兒就變慢或斷開，賬號密碼還是明文傳輸。能長期穩定用的只有加密連線，所以本站的網頁代理統一用加密連線；**只認 HTTP / SOCKS5 的軟體用流量偽裝整機接管**（見下文）。
 
@@ -52,4 +52,4 @@ Dropbox、Telegram 桌面版、Steam、網盤客戶端、開發工具這類獨�
 **不用流量偽裝行不行？** 行，思科、私網、專網也是整機接管，軟體同樣設「無代理」。流量偽裝的好處是自帶分流、丟包多的網路上更快。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=client-10) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=client-10)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-10) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-10)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

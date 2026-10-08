@@ -16,7 +16,7 @@
 
 網站推薦 [RustDesk](https://rustdesk.com)：開源（AGPL-3.0），程式碼可以自行審計；會話什麼時候開始、什麼時候結束都由你自己按下。支援 Windows、macOS、Linux、Android、iOS（iPhone / iPad 只能控制別人，不能被控制）。
 
-從[聯絡頁](https://7d24hrs.com/zh-TW/contact#downloads)「下載中心」→「遠端協助」下載，或者官網 rustdesk.com；不要用搜索結果裡的第三方下載站。協助的雙方都要裝。
+從[聯絡頁](https://www.leotun.com/zh-TW/contact#downloads)「下載中心」→「遠端協助」下載，或者官網 rustdesk.com；不要用搜索結果裡的第三方下載站。協助的雙方都要裝。
 
 ## 裝好之後要授權什麼
 
@@ -30,7 +30,7 @@
 
 遠端協助走本站自建的 RustDesk 伺服器，國內也連得穩。**協助的雙方都要匯入一次**，兩邊用同一個伺服器才能互相找到：
 
-1. 先登入網站，在[聯絡頁](https://7d24hrs.com/zh-TW/contact#downloads)「下載中心」→「遠端協助」→「連線本站伺服器」點「複製」。
+1. 先登入網站，在[聯絡頁](https://www.leotun.com/zh-TW/contact#downloads)「下載中心」→「遠端協助」→「連線本站伺服器」點「複製」。
 2. 電腦上開啟 RustDesk「設定 → 網路」，先點「解鎖網路設定」，再點「ID/中繼伺服器」；手機上是「設定 → ID/中繼伺服器」。
 3. 在彈出的窗口裡點右上角的剪貼簿圖示（手機上點「匯入」），配置自動填好，點「確定」。
 
@@ -40,7 +40,7 @@
 
 開啟 RustDesk，主介面會顯示本機的 ID 和一次性密碼。交出去之前先確認三件事：
 
-1. **是你先提出的。** 你在[聯絡頁](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-09)上的官方群裡描述了問題，客服認為需要遠端，才進行下一步。我們的客服不會主動找你、要求你裝遠端軟體或索取連線碼；誰主動來要，都先到官方群核實。
+1. **是你先提出的。** 你在[聯絡頁](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-09)上的官方群裡描述了問題，客服認為需要遠端，才進行下一步。我們的客服不會主動找你、要求你裝遠端軟體或索取連線碼；誰主動來要，都先到官方群核實。
 2. **只發給官方客服渠道**：聯絡頁上列出的人工客服。群外自稱「雷頓客服」的私聊都不是我們。
 3. **別發到群裡。** 群是很多人都能看到的地方，ID 加密碼等於把電腦的鑰匙貼在門上。
 
@@ -76,11 +76,11 @@
 
 ## 延伸閱讀
 
-- [RustDesk 遠端協助怎麼用（網站指南）](https://7d24hrs.com/zh-TW/guides/rustdesk-certificate?utm_source=github&utm_content=troubleshooting-09)
-- [Mac 提示「已損壞」怎麼辦](https://7d24hrs.com/zh-TW/guides/antivirus-false-positive?utm_source=github&utm_content=troubleshooting-09)
-- [聯絡頁：客服群、人工客服與郵箱](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-09)
+- [RustDesk 遠端協助怎麼用（網站指南）](https://www.leotun.com/zh-TW/guides/rustdesk-certificate?utm_source=github&utm_content=troubleshooting-09)
+- [Mac 提示「已損壞」怎麼辦](https://www.leotun.com/zh-TW/guides/antivirus-false-positive?utm_source=github&utm_content=troubleshooting-09)
+- [聯絡頁：客服群、人工客服與郵箱](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-09)
 - [05 · 怎麼聯絡我們、怎麼不失聯](05-how-to-reach-us.md)
 - [01 · 連不上、慢、斷線的排查清單](01-cannot-connect-slow-drops.md)
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=troubleshooting-09) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-09) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

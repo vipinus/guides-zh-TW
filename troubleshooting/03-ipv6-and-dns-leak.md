@@ -1,6 +1,6 @@
 # 03 · 連上了影片站還提示版權：IPv6 和 DNS 是漏網之魚
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/overseas-video?utm_source=github&utm_content=troubleshooting-03
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/overseas-video?utm_source=github&utm_content=troubleshooting-03
 
 [02 · 開了回國還是不能看](02-still-blocked-after-connecting.md)的第 1 步過了——出口 IP 查出來是中國大陸——網站卻仍說"因版權限制無法播放"。這時九成是裝置上還有一條沒走線路的路：**IPv6** 或 **DNS**。影片站按它看到的地址判斷你在哪，只要有一條漏出去，看到的就還是海外。
 
@@ -34,4 +34,4 @@
 | 用的是網頁代理 | 瀏覽器能看、App 不能 | 看影片要整機隧道，網頁代理只管瀏覽器 |
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=troubleshooting-03) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-03)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-03) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-03)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

@@ -6,7 +6,7 @@
 
 1. 手機裝 Cisco Secure Client（App Store / Google Play，或本站思科頁面的安裝包），登入本站點國旗複製一個地區的地址填進去，用本站賬號密碼連一次確認能通。
 2. 多複製兩個地區的地址存在客戶端裡：一個目的地附近的，一個備用的。到了當地網路不同，最優地區常常不一樣。
-3. 記下三個域名（7d24hrs.com → 7x24btc.com → anyfq.com）和至少一個客服群的入口，網路不熟的地方出問題能找到人。
+3. 記下四個域名（leotun.com → 7d24hrs.com → 7x24btc.com → anyfq.com）和至少一個客服群的入口，網路不熟的地方出問題能找到人。
 4. 筆記本也裝一個，或者用網頁代理擴充套件——公司電腦裝不了客戶端時它照樣能用。
 
 ## 落地之後
@@ -39,12 +39,12 @@
 
 ## 延伸閱讀
 
-- [思科 AnyConnect 下載與設定](https://7d24hrs.com/zh-TW/anyconnect?utm_source=github&utm_content=china-access-12)
-- [留學生回國 VPN 怎麼配](https://7d24hrs.com/zh-TW/guides/students?utm_source=github&utm_content=china-access-12)
-- [怎麼聯絡我們、怎麼不失聯](https://7d24hrs.com/zh-TW/guides/stay-in-touch?utm_source=github&utm_content=china-access-12)
-- [回國 VPN 免費還是付費](https://7d24hrs.com/zh-TW/guides/free-vs-paid?utm_source=github&utm_content=china-access-12)
+- [思科 AnyConnect 下載與設定](https://www.leotun.com/zh-TW/anyconnect?utm_source=github&utm_content=china-access-12)
+- [留學生回國 VPN 怎麼配](https://www.leotun.com/zh-TW/guides/students?utm_source=github&utm_content=china-access-12)
+- [怎麼聯絡我們、怎麼不失聯](https://www.leotun.com/zh-TW/guides/stay-in-touch?utm_source=github&utm_content=china-access-12)
+- [回國 VPN 免費還是付費](https://www.leotun.com/zh-TW/guides/free-vs-paid?utm_source=github&utm_content=china-access-12)
 
-本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/travel?utm_source=github&utm_content=china-access-12
+本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=china-access-12) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=china-access-12)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-12) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-12)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

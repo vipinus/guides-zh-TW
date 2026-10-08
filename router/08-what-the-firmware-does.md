@@ -1,6 +1,6 @@
 # 08 · 韌體裝好之後：會自己做的事，和你要知道的幾個開關
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/router-firmware?utm_source=github&utm_content=router-08
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/router-firmware?utm_source=github&utm_content=router-08
 
 刷好本站韌體或買到預裝機之後，只需要在管理頁登入賬號。這篇講韌體**自己會做**的幾件事和幾個你可能要動的開關；上手見 [01](01-plug-and-play-router.md)，分流見 [03](03-router-split-routing.md)，繫結與換機見 [05](05-mac-binding-and-replacing.md)。
 
@@ -45,4 +45,4 @@
 **韌體有沒有後門？** 基於 OpenWrt 編譯，只多了連線路的元件和分流規則；線路只記錄連線時長和流量總量用於計費。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=router-08) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=router-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

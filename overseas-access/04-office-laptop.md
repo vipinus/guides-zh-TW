@@ -41,12 +41,12 @@
 
 ## 延伸閱讀
 
-- [網頁代理設定頁：擴充套件安裝與恢復地址](https://7d24hrs.com/zh-TW/httpproxy?utm_source=github&utm_content=overseas-access-04)
-- [網頁代理是什麼、什麼時候用](https://7d24hrs.com/zh-TW/guides/web-proxy?utm_source=github&utm_content=overseas-access-04)
-- [Linux 伺服器和命令列工具怎麼走線路](https://7d24hrs.com/zh-TW/guides/linux-server?utm_source=github&utm_content=overseas-access-04)
-- [各種連線方式適用的場景](https://7d24hrs.com/zh-TW/guides/choose-connection?utm_source=github&utm_content=overseas-access-04)
+- [網頁代理設定頁：擴充套件安裝與恢復地址](https://www.leotun.com/zh-TW/httpproxy?utm_source=github&utm_content=overseas-access-04)
+- [網頁代理是什麼、什麼時候用](https://www.leotun.com/zh-TW/guides/web-proxy?utm_source=github&utm_content=overseas-access-04)
+- [Linux 伺服器和命令列工具怎麼走線路](https://www.leotun.com/zh-TW/guides/linux-server?utm_source=github&utm_content=overseas-access-04)
+- [各種連線方式適用的場景](https://www.leotun.com/zh-TW/guides/choose-connection?utm_source=github&utm_content=overseas-access-04)
 
-本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/office-laptop?utm_source=github&utm_content=overseas-access-04
+本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/office-laptop?utm_source=github&utm_content=overseas-access-04
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=overseas-access-04) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-04)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=overseas-access-04) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-04)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

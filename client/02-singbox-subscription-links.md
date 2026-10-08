@@ -1,6 +1,6 @@
 # 02 · Hiddify 訂閱連結、匯入連結、分享連結是什麼，要不要"訂閱轉換"
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/singbox-subscription?utm_source=github&utm_content=client-02
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/singbox-subscription?utm_source=github&utm_content=client-02
 
 流量偽裝（Hiddify）的"訂閱"就是一個 HTTPS 地址，客戶端從那裡下載一份完整配置——伺服器、埠、憑據、分流規則都在裡面，不用手填。雷頓使用者登入網站後，每個地區都有自己的二維碼和配置地址。
 
@@ -49,4 +49,4 @@
 **二維碼能發給家人嗎？** 二維碼含你的賬號憑據，發給誰就是把賬號給誰。家人共用允許（按檔位個人 2 臺、家庭 4 臺、企業 8 臺同時線上），別發到公開的地方；洩露了改密碼即失效。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=client-02) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=client-02)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-02) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-02)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

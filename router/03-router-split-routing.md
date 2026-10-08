@@ -1,6 +1,6 @@
 # 03 · 路由器分流是什麼
 
-> 網站版（更長、含繁體與英文）：https://7d24hrs.com/zh-TW/guides/router-firmware?utm_source=github&utm_content=router-03
+> 網站版（更長、含繁體與英文）：https://www.leotun.com/zh-TW/guides/router-firmware?utm_source=github&utm_content=router-03
 
 ## 一句話
 
@@ -31,4 +31,4 @@
 多數服務會把路由器和賬號繫結（按 MAC 地址），一個賬號綁一臺路由器，換路由器時先解綁。這樣賬號只歸你自己用。
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=router-03) 團隊整理 · 有問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=router-03)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-03) 團隊整理 · 有問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-03)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

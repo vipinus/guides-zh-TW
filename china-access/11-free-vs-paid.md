@@ -52,12 +52,12 @@
 
 ## 延伸閱讀
 
-- [價格與免費試用](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=china-access-11)
-- [回國 VPN 怎麼選](https://7d24hrs.com/zh-TW/guides/choose-china-vpn?utm_source=github&utm_content=china-access-11)
-- [海外看騰訊視頻提示版權限制怎麼辦](https://7d24hrs.com/zh-TW/guides/overseas-video?utm_source=github&utm_content=china-access-11)
-- [留學生回國 VPN 怎麼配](https://7d24hrs.com/zh-TW/guides/students?utm_source=github&utm_content=china-access-11)
+- [價格與免費試用](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-11)
+- [回國 VPN 怎麼選](https://www.leotun.com/zh-TW/guides/choose-china-vpn?utm_source=github&utm_content=china-access-11)
+- [海外看騰訊視頻提示版權限制怎麼辦](https://www.leotun.com/zh-TW/guides/overseas-video?utm_source=github&utm_content=china-access-11)
+- [留學生回國 VPN 怎麼配](https://www.leotun.com/zh-TW/guides/students?utm_source=github&utm_content=china-access-11)
 
-本文網站版（含繁體與英文）：https://7d24hrs.com/zh-TW/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
+本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-由 [雷頓](https://7d24hrs.com/zh-TW?utm_source=github&utm_content=china-access-11) 團隊整理 · 問題來 [聯絡頁面](https://7d24hrs.com/zh-TW/contact?utm_source=github&utm_content=china-access-11)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-11) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-11)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
