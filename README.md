@@ -1,6 +1,5 @@
 # 雷騰知識庫
 
-> 2026-10-05 起中文名由「藍盾」改為「雷騰」（英文名 LeoTun 不變），同一家、同一個團隊，賬號與服務都不變。
 
 跨境訪問的原理、場景、客戶端設定、路由器與排障，一篇講一件事，不堆術語。由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=readme) 團隊維護。
 
