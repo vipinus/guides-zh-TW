@@ -19,9 +19,9 @@
 4. **徹底退出 App 再開，網頁版清站點資料。** 平臺會快取上一次的地區判斷。
 5. **換一個入口再試。** 個別出口的地址可能剛被平臺標記。
 
-## 雷頓線路的處理
+## 雷騰線路的處理
 
-2026 年 9 月起，雷頓的三種接入方式（流量偽裝 Hiddify、思科 AnyConnect、OpenVPN）都在隧道內直接拒絕 IPv6，並強制下發 DNS 在隧道內解析——本機不用改設定。**9 月以前匯入的流量偽裝配置沒有這條規則，刪掉重新掃碼匯入一次。**
+2026 年 9 月起，雷騰的三種接入方式（流量偽裝 Hiddify、思科 AnyConnect、OpenVPN）都在隧道內直接拒絕 IPv6，並強制下發 DNS 在隧道內解析——本機不用改設定。**9 月以前匯入的流量偽裝配置沒有這條規則，刪掉重新掃碼匯入一次。**
 
 路由器方案本來就不漏：整個區域網從路由器出去，裝置的 IPv6 和 DNS 都到不了外面。
 
@@ -34,4 +34,4 @@
 | 用的是網頁代理 | 瀏覽器能看、App 不能 | 看影片要整機隧道，網頁代理只管瀏覽器 |
 
 ---
-由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-03) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-03)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-03) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-03)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

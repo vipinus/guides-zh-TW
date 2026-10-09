@@ -54,4 +54,4 @@ NAS 是家裡最需要走線路又最沒人管的裝置：下載器要連海外�
 本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=overseas-access-06) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-06)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=overseas-access-06) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-06)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

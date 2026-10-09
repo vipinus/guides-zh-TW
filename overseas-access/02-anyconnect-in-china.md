@@ -12,7 +12,7 @@
 | 被識別後 | 只有那一個地址連不上 | 整個 App 失效 |
 | 客戶端 | 思科釋出；開源替代 OpenConnect 全平臺都有 | 從應用商店下架就沒了 |
 
-雷頓在 24 個地區跑自己的機器，地址被標記就換新地址，域名指向自動更新，客戶端裡儲存的地址不用改。
+雷騰在 24 個地區跑自己的機器，地址被標記就換新地址，域名指向自動更新，客戶端裡儲存的地址不用改。
 
 ## 怎麼裝
 
@@ -42,4 +42,4 @@
 **長時間連著會自動斷嗎？** 不會因為時間斷。賬號到期時伺服器會主動斷開，續費後重連即可。
 
 ---
-由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=overseas-access-02) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-02)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=overseas-access-02) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-02)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

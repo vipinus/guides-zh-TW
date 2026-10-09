@@ -67,4 +67,4 @@
 **韌體有沒有後門？** 基於 OpenWrt 編譯，只多了連線路的元件和分流規則；線路只記錄連線時長和流量總量用於計費，不記錄訪問內容。
 
 ---
-由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-07) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-07)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-07) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-07)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

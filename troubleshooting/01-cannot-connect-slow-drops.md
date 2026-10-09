@@ -31,4 +31,4 @@
 上面都試過還不行，把這三樣告訴客服：用的接入方式、地區、報錯原文或截圖。有這三樣，多數問題一次就能定位。
 
 ---
-由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-01) 團隊整理 · 有問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-01) 團隊整理 · 有問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

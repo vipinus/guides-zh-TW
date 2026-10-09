@@ -103,4 +103,4 @@ deb 包是 x64 的；ARM 的 Linux 裝置用專網（OpenVPN），賬號通用�
 - [iOS 裝不了應用怎麼辦](https://www.leotun.com/zh-TW/guides/ios-app-store?utm_source=github&utm_content=client-09)
 
 ---
-由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-09) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-09) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

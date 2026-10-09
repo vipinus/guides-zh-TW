@@ -1,6 +1,6 @@
 # 09 · 連線不夠裝置用怎麼辦
 
-一個雷頓賬號能裝在任意多臺裝置上，限制的只是同時線上的臺數：個人檔 2 臺、家庭檔 4 臺、企業檔 8 臺。不夠用時先確認是不是真的不夠，再看是臨時還是長期：臨時多幾臺（親友來訪、出差多帶裝置），就臨時升一檔，用完切回，剩餘時長按價格等值折算，只為多出來的那幾天付差價；長期不夠，就直接換到更高一檔，或者用一臺路由器把家裡的裝置合成一臺。
+一個雷騰賬號能裝在任意多臺裝置上，限制的只是同時線上的臺數：個人檔 2 臺、家庭檔 4 臺、企業檔 8 臺。不夠用時先確認是不是真的不夠，再看是臨時還是長期：臨時多幾臺（親友來訪、出差多帶裝置），就臨時升一檔，用完切回，剩餘時長按價格等值折算，只為多出來的那幾天付差價；長期不夠，就直接換到更高一檔，或者用一臺路由器把家裡的裝置合成一臺。
 
 三檔的價格、換檔折算規則的完整說明見 [08 · 賬號三檔怎麼選、續費與付款](08-account-tiers-and-payment.md)。
 
@@ -56,4 +56,4 @@
 本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-09) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-09) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

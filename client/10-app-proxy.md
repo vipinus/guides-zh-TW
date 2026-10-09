@@ -52,4 +52,4 @@ Dropbox、Telegram 桌面版、Steam、網盤客戶端、開發工具這類獨�
 **不用流量偽裝行不行？** 行，思科、私網、專網也是整機接管，軟體同樣設「無代理」。流量偽裝的好處是自帶分流、丟包多的網路上更快。
 
 ---
-由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-10) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-10)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-10) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-10)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

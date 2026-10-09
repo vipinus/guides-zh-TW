@@ -96,4 +96,4 @@
 - [海外看騰訊視頻提示版權限制怎麼辦](https://www.leotun.com/zh-TW/guides/overseas-video?utm_source=github&utm_content=troubleshooting-08)
 
 ---
-由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效

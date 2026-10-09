@@ -1,6 +1,6 @@
 # 08 · 賬號三檔怎麼選、續費與付款
 
-雷頓 的賬號分個人、家庭、企業三檔，差別只在價格和同時線上臺數，地區、流量、接入方式三檔完全一樣。這篇講清楚：三檔各給什麼、怎麼選；新賬號是哪一檔、買的時候怎麼換檔、換檔時剩下的時間怎麼算；買得越久折扣怎麼走；支付寶、PayPal、信用卡怎麼付，國內付款時頁面為什麼會跳一下；積分按天付適合誰；免費試用和邀請獎勵在各檔是多少；以及到期以後會怎樣。
+雷騰 的賬號分個人、家庭、企業三檔，差別只在價格和同時線上臺數，地區、流量、接入方式三檔完全一樣。這篇講清楚：三檔各給什麼、怎麼選；新賬號是哪一檔、買的時候怎麼換檔、換檔時剩下的時間怎麼算；買得越久折扣怎麼走；支付寶、PayPal、信用卡怎麼付，國內付款時頁面為什麼會跳一下；積分按天付適合誰；免費試用和邀請獎勵在各檔是多少；以及到期以後會怎樣。
 
 ## 三檔一覽
 
@@ -117,4 +117,4 @@
 - [常見問題與聯絡客服](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-08)
 
 ---
-由 [雷頓](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
