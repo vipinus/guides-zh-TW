@@ -82,11 +82,11 @@
 | | 個人 | 家庭 | 企業 |
 |---|---|---|---|
 | 免費試用 | 24 小時 | 12 小時 | 6 小時 |
-| 每邀請一位朋友首次付費 | +30 天 | +15 天 | +7.5 天 |
+| 每邀請一位朋友首次付費（你和朋友各得） | +20 天 | +10 天 | +5 天 |
 | 買路由器附贈服務（24 個月的型號） | 24 個月 | 12 個月 | 6 個月 |
 
 - 試用：註冊後在首頁領，不要信用卡；試用碼發到郵箱，填 6 位碼開通；每個賬號一次。新賬號是個人檔，所以一般拿到的是 24 小時。
-- 邀請：朋友用你的推薦連結註冊、完成首次付款後，你的有效期直接延長，人數不限。天數按你當時的檔位算。
+- 邀請：朋友用你的推薦連結註冊、完成首次付款後，你和朋友的有效期都直接延長，人數不限。天數各按自己當時的檔位算。
 - 這些數字都按價格倍數反比折算，換哪一檔拿到的價值都一樣。
 
 ## 到期以後
@@ -117,4 +117,4 @@
 - [常見問題與聯絡客服](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-08)
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效

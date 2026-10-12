@@ -53,4 +53,4 @@
 **能用 Clash 嗎？** 能。雷騰同時給 Hiddify 配置地址和 hysteria2 分享連結，Clash Meta 匯入分享連結即可；匯入後把國內域名設成走節點，別設"直連"。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效

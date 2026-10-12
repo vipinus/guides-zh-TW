@@ -28,7 +28,7 @@
 
 不想按月買的有兩條路：先領 24 小時免費試用（不要信用卡，每個賬號一次）在晚高峰試一次；或者按天付——充值積分後個人檔每天 1 積分，25 積分 8 美元，算下來一天約 0.32 美元，回國前只買幾天正合適。
 
-邀請朋友註冊並首次付費，你的有效期加 30 天，人數不限，這是長期的免費時長來源。
+邀請朋友註冊並首次付費，你和朋友的有效期各加 20 天（按個人檔計），人數不限，這是長期的免費時長來源。
 
 ## 付費之前怎麼驗貨
 
@@ -60,4 +60,4 @@
 本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-11) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-11)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友每位送 30 天，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-11) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-11)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效
