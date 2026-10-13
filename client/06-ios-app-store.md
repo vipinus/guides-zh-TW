@@ -26,7 +26,7 @@ App Store 按 Apple ID 的地區分商店，不同地區上架的應用不同。
 
 ## 裝好之後
 
-Hiddify：回本站流量偽裝頁面掃碼或複製匯入連結。Tailscale：先退出官方賬號再按私網頁面的步驟填本站的控制伺服器地址。Telegram、Discord：進本站聯絡頁掃碼進群。
+Hiddify：回本站流量偽裝頁面掃碼，或點「sing-box 訂閱」按鈕複製後切到 Hiddify 新增。Tailscale：先退出官方賬號再按私網頁面的步驟填本站的控制伺服器地址。Telegram、Discord：進本站聯絡頁掃碼進群。
 
 ## 常見問題
 

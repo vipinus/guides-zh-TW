@@ -7,7 +7,7 @@
 | 篇 |
 |---|
 | [01 · 思科 AnyConnect：各平臺安裝、連線與更新](01-anyconnect-install.md) |
-| [02 · Hiddify 訂閱連結、匯入連結、分享連結是什麼，要不要"訂閱轉換"](02-singbox-subscription-links.md) |
+| [02 · 機場訂閱連結怎麼匯入](02-singbox-subscription-links.md) |
 | [03 · 網頁代理：ZeroOmega 擴充套件兩步配好](03-web-proxy-extension.md) |
 | [04 · OpenVPN：下載 .ovpn 配置匯入即連，路由器、NAS、Linux 都能用](04-openvpn-profile.md) |
 | [05 · 私網（Tailscale）：安裝、登入本站控制伺服器、選出口](05-tailscale-private-network.md) |

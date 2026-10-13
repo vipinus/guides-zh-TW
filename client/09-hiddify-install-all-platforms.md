@@ -76,10 +76,10 @@ deb 包是 x64 的；ARM 的 Linux 裝置用專網（OpenVPN），賬號通用�
 
 1. 登入網站，開啟偽裝頁。
 2. 點想用的地區國旗，彈出二維碼；或點頁面上方的「匯入所有自動選擇」，一次匯入境外全部地區、由客戶端自動選。**中國區單獨匯入**：回國看影片、登網銀時點中國國旗匯入。
-3. 手機：點「複製匯入連結」後切到 Hiddify 按提示新增，或用另一臺裝置上的 Hiddify 掃碼。電腦：點「複製配置地址（貼上用）」，在 Hiddify 裡點「+」→「從剪貼簿新增」。
+3. 二維碼下面有三個按鈕，按訂閱型別分，Hiddify 用第一個（寫著 Hiddify / sing-box / GUI.for.SingBox / Karing，副標題「sing-box 訂閱」），手機和電腦是同一個按鈕。手機：點它後切到 Hiddify 按提示新增，或用另一臺裝置上的 Hiddify 掃碼。電腦：點它複製到的是 https:// 地址，在 Hiddify 裡點「+」→「從剪貼簿新增」。
 4. 點連線。
 
-三種連結的區別、其他客戶端怎麼匯入、訂閱會不會過期，見 [02 · Hiddify 訂閱連結](02-singbox-subscription-links.md)。匯入了連不上，見 [排障 04](../troubleshooting/04-singbox-import-not-connecting.md)。
+三個按鈕的區別、Clash 和其他客戶端怎麼匯入、訂閱會不會過期，見 [02 · 機場訂閱連結怎麼匯入](02-singbox-subscription-links.md)。匯入了連不上，見 [排障 04](../troubleshooting/04-singbox-import-not-connecting.md)。
 
 ## 常見問題
 
@@ -97,7 +97,7 @@ deb 包是 x64 的；ARM 的 Linux 裝置用專網（OpenVPN），賬號通用�
 ## 延伸閱讀
 
 - [偽裝頁：客戶端下載與各地區二維碼](https://www.leotun.com/zh-TW/singbox?utm_source=github&utm_content=client-09)
-- [Hiddify 訂閱連結怎麼匯入](https://www.leotun.com/zh-TW/guides/singbox-subscription?utm_source=github&utm_content=client-09)
+- [機場訂閱連結怎麼匯入](https://www.leotun.com/zh-TW/guides/singbox-subscription?utm_source=github&utm_content=client-09)
 - [客戶端被報毒 / Mac 提示已損壞：先驗證，再放行](https://www.leotun.com/zh-TW/guides/antivirus-false-positive?utm_source=github&utm_content=client-09)
 - [macOS「網路擴充套件」授權是什麼、怎麼放行](https://www.leotun.com/zh-TW/guides/macos-network-extension?utm_source=github&utm_content=client-09)
 - [iOS 裝不了應用怎麼辦](https://www.leotun.com/zh-TW/guides/ios-app-store?utm_source=github&utm_content=client-09)
