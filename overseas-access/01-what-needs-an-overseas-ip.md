@@ -24,7 +24,7 @@
 
 - **改 DNS 沒用。** 連不上是路徑問題，不是解析問題。
 - **速度看兩點之間的線路。** 從國內出去，瓶頸是跨境鏈路和你的運營商出口，選地區比選伺服器配置重要，見 [03](03-which-region-is-fastest.md)。
-- **用著國內 App 時不用全走線路。** 開分流：國內網站直連、海外網站走線路，兩邊都不繞遠，見 [路由器分流](../router/03-router-split-routing.md)。
+- **用著國內 App 時不用全走線路。** 開分流：預設只讓被牆的網站走線路，國內網站和本來就能打開的海外網站都直連，兩邊都不繞遠，見 [路由器分流](../router/03-router-split-routing.md)。
 
 ---
 由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=overseas-access-01) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效
