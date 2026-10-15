@@ -15,7 +15,7 @@
 | 專案 | 怎麼看 | 不合格的表現 |
 |---|---|---|
 | 出口地區 | 連上後查 IP 歸屬地 | 港臺日韓地址 |
-| IPv6 與 DNS | 搜"test ipv6"開啟檢測頁 | IPv6 欄顯示你所在國家 → 影片站仍會攔，見[排障 06](../troubleshooting/03-ipv6-and-dns-leak.md) |
+| IPv6 與 DNS | 搜"test ipv6"開啟檢測頁 | IPv6 欄顯示你所在國家 → 影片站仍會攔，見[排障 03](../troubleshooting/03-ipv6-and-dns-leak.md) |
 | 客戶端 | 是不是標準協議（AnyConnect、OpenVPN、Hiddify） | 只有一個私有 App，下架就沒得用 |
 | 頻寬 | 北京時間晚 8–11 點播 1080p | 白天快晚上轉圈 |
 | 多裝置與路由器 | 一個賬號幾臺、能不能路由器整機接入 | 每臺裝置單獨買 |
