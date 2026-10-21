@@ -65,4 +65,4 @@ Clash Meta（mihomo）、Clash Verge、FlClash、Stash 等點"Clash 訂閱"按�
 **二維碼能發給家人嗎？** 二維碼含你的賬號憑據，發給誰就是把賬號給誰。家人共用允許（按檔位個人 2 臺、家庭 4 臺、企業 8 臺同時線上），別發到公開的地方；洩露了改密碼即失效。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-02) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-02)（群組、郵件、客服都在上面） · 註冊領 4 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-02) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-02)（群組、郵件、客服都在上面） · 註冊領 4 小時免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效

@@ -35,4 +35,4 @@
 家裡監控的畫面只應該在你的裝置和家裡之間流動。私有網路方案優先點對點直連，直連不通時才經中繼轉發，畫面不會存在任何伺服器上；廠商雲端方案則經過廠商。兩種都不要用來路不明的"穿透工具"，那等於把家裡的攝像頭交給別人。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-07) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-07)（群組、郵件、客服都在上面） · 註冊領 4 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-07) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-07)（群組、郵件、客服都在上面） · 註冊領 4 小時免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效
