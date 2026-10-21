@@ -11,7 +11,7 @@
 | 東西 | 說明 |
 |---|---|
 | 一臺支援的路由器 | 預裝的到手即用；自己刷的看[刷韌體流程](02-flash-firmware-yourself.md) |
-| 一個賬號 | 個人、家庭、企業三檔賬號都支援路由器功能。註冊後先領免費試用驗證整套流程：新賬號是個人檔，試用 24 小時 |
+| 一個賬號 | 個人、家庭、企業三檔賬號都支援路由器功能。註冊後先領免費試用驗證整套流程：新賬號是個人檔，試用 4 小時 |
 | 上級網路 | 家裡原來的光貓或路由器，新路由器接在它後面 |
 
 ## 五步搞定
@@ -37,4 +37,4 @@
 - **老路由器整戶變慢**：CPU 跑不動加密流量，換效能好一點的型號，見[預裝路由器怎麼開始](01-plug-and-play-router.md)。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-06) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-06)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-06) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-06)（群組、郵件、客服都在上面） · 註冊領 4 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效

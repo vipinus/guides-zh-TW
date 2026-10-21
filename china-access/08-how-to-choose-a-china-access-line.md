@@ -26,7 +26,7 @@
 
 瀏覽器上的免費"回國"外掛還有一個盲區：只代理瀏覽器的網頁請求，影片播放器、App、系統 DNS 都不走它，所以常見"網頁能開、影片不能放"。
 
-偶爾查個資料，免費夠用；追劇、聽歌、辦網銀，穩定的付費線路省下的時間遠比訂閱費值錢。先領 24 小時試用，在晚高峰試一次再決定。
+偶爾查個資料，免費夠用；追劇、聽歌、辦網銀，穩定的付費線路省下的時間遠比訂閱費值錢。先領 4 小時試用，在晚高峰試一次再決定。
 
 ## 留學生、旅行者、家庭各怎麼配
 
@@ -53,4 +53,4 @@
 **能用 Clash 嗎？** 能。雷騰同時給 sing-box 訂閱、Clash 訂閱和 hysteria2 分享連結，Clash Meta、Clash Verge、FlClash、Stash 等點"Clash 訂閱"按鈕，把地址貼進客戶端的訂閱列表即可，不需要訂閱轉換，也不要用分享連結；原版 Clash 和 Clash for Windows 核心沒有 hysteria2，用不了。這份訂閱預設除本機區域網路外全部走節點，回國看影片不用再改規則；自己加規則時別把國內域名設成"直連"。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-08)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-08)（群組、郵件、客服都在上面） · 註冊領 4 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效

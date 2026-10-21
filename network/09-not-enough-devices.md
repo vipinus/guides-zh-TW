@@ -22,7 +22,7 @@
 
 ## 臨時升檔要花多少：算一筆賬
 
-三檔價格是 1 : 2 : 4（個人 $4、家庭 $8、企業 $16 每月），所以換檔時剩餘時長按這個比例換算，誰也不吃虧。舉例：家庭檔還剩 30 天，臨時切到企業檔變成 15 天；用了 3 天還剩 12 天，切回家庭檔變成 24 天。和一直用家庭檔（30 − 3 = 27 天）相比少了 3 天——也就是說，這 3 天按企業檔的價格算，多付的只是這 3 天的差價。
+三檔價格是 1 : 2 : 4（個人 $5、家庭 $10、企業 $20 每月），所以換檔時剩餘時長按這個比例換算，誰也不吃虧。舉例：家庭檔還剩 30 天，臨時切到企業檔變成 15 天；用了 3 天還剩 12 天，切回家庭檔變成 24 天。和一直用家庭檔（30 − 3 = 27 天）相比少了 3 天——也就是說，這 3 天按企業檔的價格算，多付的只是這 3 天的差價。
 
 兩個限制：30 分鐘內發起過付款但沒完成，會切不了，把那筆付款完成或放棄後等半小時再切；切回低檔時，如果線上裝置還超過低檔的上限，網站會提示先斷開多餘裝置。
 
@@ -56,4 +56,4 @@
 本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-09) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-09)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-09) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-09)（群組、郵件、客服都在上面） · 註冊領 4 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效

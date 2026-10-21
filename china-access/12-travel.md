@@ -29,7 +29,7 @@
 
 ## 常見問題
 
-**旅行只有幾天，要買一個月嗎？** 不用。領 24 小時免費試用，或者充積分按天付：個人檔每天 1 積分，一天約 0.32 美元，幾天正合適。
+**旅行只有幾天，要買一個月嗎？** 不用。領 4 小時免費試用，或者充積分按天付：個人檔每天 1 積分，一天約 0.32 美元，幾天正合適。
 
 **手機和筆記本能同時連嗎？** 能，一個賬號按檔位 2 / 4 / 8 臺裝置同時線上（個人 / 家庭 / 企業），個人檔正好一部手機加一臺筆記本。
 
@@ -47,4 +47,4 @@
 本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-12) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-12)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-12) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-12)（群組、郵件、客服都在上面） · 註冊領 4 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效

@@ -9,7 +9,7 @@
 
 | 怎麼領 | 得到什麼 |
 |---|---|
-| 註冊後領免費試用 | 24 小時全功能試用，不要信用卡 |
+| 註冊後領免費試用 | 4 小時全功能試用，不要信用卡 |
 | 邀請朋友註冊並首次付費 | 你和朋友的有效期各 +20 天（按個人檔計；家庭檔 +10 天、企業檔 +5 天，各按自己的檔位算），每位朋友一次，人數不限 |
 
 網站：<https://www.leotun.com/zh-TW?utm_source=github&utm_content=readme> · 聯絡我們：<https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=readme>

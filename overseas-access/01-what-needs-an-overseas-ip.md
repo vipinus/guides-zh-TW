@@ -27,4 +27,4 @@
 - **用著國內 App 時不用全走線路。** 開分流：預設只讓被牆的網站走線路，國內網站和本來就能打開的海外網站都直連，兩邊都不繞遠，見 [路由器分流](../router/03-router-split-routing.md)。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=overseas-access-01) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-01)（群組、郵件、客服都在上面） · 註冊領 24 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=overseas-access-01) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-01)（群組、郵件、客服都在上面） · 註冊領 4 小時免費試用，邀請朋友付費，雙方各得 20 天個人檔有效期，長期有效
