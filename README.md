@@ -10,7 +10,7 @@
 | 怎麼領 | 得到什麼 |
 |---|---|
 | 註冊後領免費試用 | 30 分鐘全功能試用，不要信用卡 |
-| 邀請朋友註冊並首次付費 | 你和朋友各得 15 積分（個人檔每天 1 積分，約 15 天），直接加到積分餘額，每位朋友一次，人數不限 |
+| 邀請朋友註冊並首次付費 | 你和朋友各得 15 積分（基礎檔每天 1 積分，約 15 天），直接加到積分餘額，每位朋友一次，人數不限 |
 
 網站：<https://www.leotun.com/zh-TW?utm_source=github&utm_content=readme> · 聯絡我們：<https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=readme>
 
@@ -66,7 +66,7 @@
 | [05 · 如何識別有風險的 VPN 軟體](network/05-risky-vpn-apps.md) |
 | [06 · 為什麼有時候快、有時候慢](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · 哪些問題靠線路解決，哪些要另找辦法](network/07-when-you-do-not-need-us.md) |
-| [08 · 賬號三檔怎麼選、續費與付款](network/08-account-tiers-and-payment.md) |
+| [08 · 賬號檔位怎麼選、續費與付款](network/08-account-tiers-and-payment.md) |
 | [09 · 連線不夠裝置用怎麼辦](network/09-not-enough-devices.md) |
 
 ### [客戶端安裝與設定 · Client Guides](client/)

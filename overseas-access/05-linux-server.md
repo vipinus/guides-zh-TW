@@ -34,7 +34,7 @@ Docker 守護程序不讀 shell 環境變數，要寫進 /etc/systemd/system/doc
 
 ## 要知道的
 
-- 一臺 Linux 算一臺裝置，與其他裝置共用同時線上額度（個人 2 臺、家庭 4 臺、企業 8 臺）；路二的網頁代理按連線計，也算在內。
+- 一臺 Linux 算一臺裝置，與其他裝置共用同時線上額度（基礎 2 臺、普通 4 臺、專業 8 臺、菁英 16 臺、企業 32 臺、旗艦 64 臺）；路二的網頁代理按連線計，也算在內。
 - 配置檔案和密碼檔案等於你的賬號，別提交進 git 倉庫、別放進映象。
 - 改密碼後舊配置立刻失效，這是設計上的吊銷手段；更新密碼檔案即可。
 - 雲伺服器上跑線路請遵守服務商的使用條款；線路只記錄連線時長和流量總量。
@@ -59,4 +59,4 @@ Docker 守護程序不讀 shell 環境變數，要寫進 /etc/systemd/system/doc
 本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=overseas-access-05) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-05)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=overseas-access-05) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=overseas-access-05)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約基礎檔 15 天），長期有效

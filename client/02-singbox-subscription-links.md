@@ -62,7 +62,7 @@ Clash Meta（mihomo）、Clash Verge、FlClash、Stash 等點"Clash 訂閱"按�
 
 **一份配置能包含所有地區嗎？** 點國旗匯入的是每個地區一份，在客戶端配置列表裡切換，這樣某個地區換地址只影響它自己。想一次匯入境外全部地區、由客戶端自動選，點頁面上方的"匯入所有自動選擇"（只有 sing-box 訂閱和 Clash 訂閱兩個按鈕）。
 
-**二維碼能發給家人嗎？** 二維碼含你的賬號憑據，發給誰就是把賬號給誰。家人共用允許（按檔位個人 2 臺、家庭 4 臺、企業 8 臺同時線上），別發到公開的地方；洩露了改密碼即失效。
+**二維碼能發給家人嗎？** 二維碼含你的賬號憑據，發給誰就是把賬號給誰。家人共用允許（按檔位基礎 2 臺、普通 4 臺、專業 8 臺、菁英 16 臺、企業 32 臺、旗艦 64 臺同時線上），別發到公開的地方；洩露了改密碼即失效。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-02) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-02)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-02) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-02)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約基礎檔 15 天），長期有效

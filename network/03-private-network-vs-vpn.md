@@ -26,9 +26,9 @@
 
 ## 到期和裝置數
 
-裝置登入有效期跟賬號到期日走，到期幾分鐘內離線，續費後重新登入即可。同時線上臺數按檔位（個人 2 臺、家庭 4 臺、企業 8 臺），與其他接入方式共用額度；同時線上超過檔位上限時，可以臨時升級賬號型別（剩餘時間按價格等值折算），用完之後再切回。
+裝置登入有效期跟賬號到期日走，到期幾分鐘內離線，續費後重新登入即可。同時線上臺數按檔位（基礎 2 臺、普通 4 臺、專業 8 臺、菁英 16 臺、企業 32 臺、旗艦 64 臺），與其他接入方式共用額度；同時線上超過檔位上限時，可以臨時升級賬號型別（剩餘時間按價格等值折算），用完之後再切回。
 
 安裝與登入步驟見 [客戶端指南 05](../client/05-tailscale-private-network.md)。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-03) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-03)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=network-03) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=network-03)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約基礎檔 15 天），長期有效

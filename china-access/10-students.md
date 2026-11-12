@@ -48,7 +48,7 @@
 
 **留學生用回國 VPN 會影響學校網路賬號嗎？** 不會。線路只是把你的流量送到國內出口，校園網看到的是一條加密連線。多數學校的使用規範只禁止侵權下載和攻擊行為，個人訪問自己國家的服務不在其列；不確定的話看一眼學校的 acceptable use policy。
 
-**一個賬號能和室友合用嗎？** 一個賬號按檔位可以 2 臺（個人）、4 臺（家庭）或 8 臺（企業）裝置同時線上，家人或室友合用在規則允許範圍內。但網銀這類場景各用各的賬號更穩妥，避免同一線路上多人頻繁切換觸發風控。
+**一個賬號能和室友合用嗎？** 一個賬號按檔位可以 2 到 64 臺裝置同時線上（基礎 2 臺、普通 4 臺，往上每檔翻倍），家人或室友合用在規則允許範圍內。但網銀這類場景各用各的賬號更穩妥，避免同一線路上多人頻繁切換觸發風控。
 
 **為什麼宿舍裡 Hiddify 慢而 AnyConnect 正常？** 多半是校園網限制了 UDP。Hiddify 的 hysteria2 協議基於 UDP，被限速後表現為慢或斷；AnyConnect 走 TLS，和訪問 HTTPS 網站一樣不受影響。
 
@@ -66,4 +66,4 @@
 本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/students?utm_source=github&utm_content=china-access-10
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-10) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-10)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-10) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-10)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約基礎檔 15 天），長期有效

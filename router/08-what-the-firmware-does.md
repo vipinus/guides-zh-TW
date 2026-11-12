@@ -39,11 +39,11 @@
 
 ## 常見問題
 
-**個人檔能用路由器嗎？** 能，個人、家庭、企業三檔都支援路由器，不用換檔。
+**基礎檔能用路由器嗎？** 能，六檔付費賬號都支援路由器、不限速，不用換檔；基礎檔能綁 1 臺，要綁更多臺再升檔。
 
 **路由器佔幾臺裝置名額？** 一臺，它後面的裝置不計數。
 
 **韌體有沒有後門？** 基於 OpenWrt 編譯，只多了連線路的元件和分流規則；線路只記錄連線時長和流量總量用於計費。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-08)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-08)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約基礎檔 15 天），長期有效

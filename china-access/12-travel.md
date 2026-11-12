@@ -29,9 +29,9 @@
 
 ## 常見問題
 
-**旅行只有幾天，要買一個月嗎？** 不用。充積分按天付：個人檔每天 1 積分，一天約 0.36 美元，幾天正合適。可以先領 30 分鐘免費試用試一下。
+**旅行只有幾天，要買一個月嗎？** 不用。充積分按天付：基礎檔每天 1 積分，一天約 0.36 美元，幾天正合適。可以先領 30 分鐘免費試用試一下。
 
-**手機和筆記本能同時連嗎？** 能，一個賬號按檔位 2 / 4 / 8 臺裝置同時線上（個人 / 家庭 / 企業），個人檔正好一部手機加一臺筆記本。
+**手機和筆記本能同時連嗎？** 能，一個賬號按檔位 2 到 64 臺裝置同時線上（基礎 2 臺、普通 4 臺，往上每檔翻倍），基礎檔正好一部手機加一臺筆記本。
 
 **為什麼旅行推薦思科而不是流量偽裝？** 陌生網路裡最怕限 UDP，思科走 TLS 和訪問 HTTPS 網站一樣，幾乎哪裡都通；流量偽裝在丟包多的網路上更快，但被限 UDP 時不行。兩個都裝、不通就換是最穩的。
 
@@ -47,4 +47,4 @@
 本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-12) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-12)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=china-access-12) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=china-access-12)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約基礎檔 15 天），長期有效

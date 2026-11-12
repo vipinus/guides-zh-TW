@@ -16,7 +16,7 @@
 
 ## 續費、切檔、改密碼後要不要重新匯入
 
-- **續費、切換檔位（個人/家庭/企業）**：不用，原配置繼續用。
+- **續費、切換檔位（基礎、普通、專業等）**：不用，原配置繼續用。
 - **改密碼**：舊配置立刻失效，重新掃碼。手機丟了、連結外洩就用這個辦法收回。
 - **賬號到期**：配置返回 401；續費後不用換配置，重新連線即可。
 - **2026 年 9 月以前匯入的**：缺拒絕 IPv6 的規則，海外看國內影片會提示版權限制，刪掉重導，見 [03](03-ipv6-and-dns-leak.md)。
@@ -26,4 +26,4 @@
 把三樣告訴客服：客戶端名字和版本、地區、報錯原文或截圖。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-04) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-04)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=troubleshooting-04) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=troubleshooting-04)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約基礎檔 15 天），長期有效

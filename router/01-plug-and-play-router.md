@@ -4,7 +4,7 @@
 
 1. **插電、接網線**：路由器的 WAN 口接原來的光貓或上級路由器，等指示燈穩定，約一分鐘。
 2. **連 Wi-Fi**：預設 Wi-Fi 名和密碼印在說明卡上（出廠預設都是網站域名），連上後開啟瀏覽器訪問管理地址 `http://192.168.11.1`。
-3. **登入賬號**：管理頁裡填你的賬號郵箱和密碼，儲存（個人、家庭、企業三檔賬號都能用路由器）。之後所有連這個 Wi-Fi 的裝置自動走線路。
+3. **登入賬號**：管理頁裡填你的賬號郵箱和密碼，儲存（六檔付費賬號都能用路由器）。之後所有連這個 Wi-Fi 的裝置自動走線路。
 
 ## 改掉預設密碼
 
@@ -17,7 +17,7 @@
 ## 常見問題
 
 - **指示燈正常但裝置連上沒網**：看管理頁裡賬號狀態，過期或密碼錯都會顯示在那裡。
-- **想換一臺路由器**：先在網站上解綁舊的，見[MAC 繫結與換路由器](05-mac-binding-and-replacing.md)。
+- **想換一臺路由器**：檔位沒綁滿時新路由器直接連上；綁滿了先在網站上解綁舊的，見[MAC 繫結與換路由器](05-mac-binding-and-replacing.md)。
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-01) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-01)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=router-01) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=router-01)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約基礎檔 15 天），長期有效

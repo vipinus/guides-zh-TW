@@ -11,7 +11,7 @@
 
 ## 同時線上臺數怎麼算
 
-一個賬號可以裝在任意多臺裝置上，限制的只是同時線上的數量：個人 2 臺、家庭 4 臺、企業 8 臺，和思科、流量偽裝等其他方式共用同一個額度。同時線上超過檔位上限時，可以臨時升級賬號型別（剩餘時間按價格等值折算），用完之後再切回。
+一個賬號可以裝在任意多臺裝置上，限制的只是同時線上的數量：基礎 2 臺、普通 4 臺、專業 8 臺、菁英 16 臺、企業 32 臺、旗艦 64 臺，和思科、流量偽裝等其他方式共用同一個額度。同時線上超過檔位上限時，可以臨時升級賬號型別（剩餘時間按價格等值折算），用完之後再切回。
 
 路由器算一臺，它後面的裝置不計數。家裡一臺路由器或 NAS 加上隨身的手機、筆記本，通常就夠。
 
@@ -49,4 +49,4 @@
 本文網站版（含繁體與英文）：https://www.leotun.com/zh-TW/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-08)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約個人檔 15 天），長期有效
+由 [雷騰](https://www.leotun.com/zh-TW?utm_source=github&utm_content=client-08) 團隊整理 · 問題來 [聯絡頁面](https://www.leotun.com/zh-TW/contact?utm_source=github&utm_content=client-08)（群組、郵件、客服都在上面） · 註冊領 30 分鐘免費試用，邀請朋友付費，雙方各得 15 積分（約基礎檔 15 天），長期有效
